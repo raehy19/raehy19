@@ -5,9 +5,13 @@
   ## Currently Learning
   
   ### 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 at 𝐘𝐎𝐍𝐒𝐄𝐈 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐈𝐓𝐘
-
-### [![](https://img.shields.io/badge/🦅Yonsei_Univ-00205B.svg?&style=plastic&link=https://www.yonsei.ac.kr/sc/)](https://www.yonsei.ac.kr/sc/)
-
+  
+  ### [![](https://img.shields.io/badge/🦅Yonsei_Univ-00205B.svg?&style=plastic&link=https://www.yonsei.ac.kr/sc/)](https://www.yonsei.ac.kr/sc/)
+  
+  ### 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 at 𝟒𝟐𝐒𝐞𝐨𝐮𝐥
+  
+  ### [![42](https://img.shields.io/badge/42Seoul-000000.svg?&style=plastic&logo=42&logoColor=white&link=https://42seoul.kr/seoul42/main/view)](https://42seoul.kr/seoul42/main/view)
+  
 ## Tech Stack
 
 ### Language
@@ -27,6 +31,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
