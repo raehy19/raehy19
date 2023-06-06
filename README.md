@@ -58,13 +58,15 @@
 
 ### else
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraehy19&count_bg=%2300205B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+#### [Portfolio (LINK)](https://github.com/raehy19/Portfolio.md)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raehy19&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raehy19&layout=compact&theme=dracula)
 
 [![https://solved.ac/raehy19](http://mazassumnida.wtf/api/v2/generate_badge?boj=raehy19)](https://solved.ac/raehy19)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraehy19&count_bg=%2300205B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ## Contact
 
