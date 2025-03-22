@@ -37,7 +37,7 @@ Provided personalized college admissions consulting while also developing intern
 systems.
 
 👾 **Some Other Projects . . .**  
-Breaking things to learn. Learning by building things that shouldn’t exist.---
+Breaking things to learn. Learning by building things that shouldn’t exist..🤔
 
 # 🛠️ Tech Stack
 
