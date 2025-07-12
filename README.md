@@ -4,7 +4,7 @@
 
 # 👨‍💻 About Me
 
-CTO @ **Potentivo Lab** — building **[Parentlyze](https://parentlyze.com/)**
+Co-Founder & CTO @ **Potentivo Lab** — building **[Parentlyze](https://parentlyze.com/)**
 
 Member @ **[Meetup Lab](https://www.meetuplab.com/)**
 
